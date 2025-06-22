@@ -1,0 +1,22 @@
+article {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+.comment {
+    color: blue;
+}
+
+.comment#best-comment {
+    background-color: yellow;
+}
+
+header p {
+    font-weight: bold;
+}
+
+header p span {
+    text-decoration: line-through dotted violet;
+    text-decoration-thickness: 3px;
+    margin-right: 4px;
+}
